@@ -17,7 +17,7 @@ Olympic Games Analysis Project
 
 Project Overview
 
-This project aims to explore various aspects of the Olympic Games using data analysis techniques. We focused on the correlation between a country's GDP and the number of medals won, the impact of hosting the games on medal counts, the influence 3of athletes' physical attributes on performance, and the changes in athlete participation over the years.
+This project aims to explore various aspects of the Olympic Games using data analysis techniques. We focused on the correlation between a country's GDP and the number of medals won, the impact of hosting the games on medal counts, the influence of athletes' physical attributes on performance, and the changes in athlete participation over the years.
 
 Guiding Questions
 
