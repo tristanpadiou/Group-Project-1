@@ -45,3 +45,10 @@ Guiding Questions
 
 Contributors
 
+Alexander Amati
+Ana Carolina Azevedo + Felipe
+Javier Gonzalez
+Franck Nan
+Tristan Padiou
+Jandro Riley
+
