@@ -95,9 +95,9 @@ The repository contains several Jupyter notebooks:
 
 ## Files and Resources
 
-- **files**: This directory contains additional data files used in the notebooks.
+- **files**: This directory contains data files used in the notebooks.
 - **images**: This directory contains images used in the notebooks.
-- **gdp-per-capita-maddison.csv**: A dataset used in one of the notebooks for analysis.
+- **gdp-per-capita-maddison.csv**: An aditional dataset used in one of the notebooks for analysis.
 
 ## Notes
 
