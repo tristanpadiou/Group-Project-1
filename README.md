@@ -1,6 +1,6 @@
 # Group-Project-1
 # Group 9
-# Team: Alexander Amati, Ana Carolina Azevedo, Javier Gonzalez, Franck Nan, Tristan Padiou, Jandro Riley
+# Team: Alexander Amati, Ana Carolina Azevedo, Javier Gonzalez, Franck Nan, Tristan Padiou, Riley Jandro
 
 
 
@@ -61,21 +61,21 @@ To get started, follow these steps:
 The repository contains several Jupyter notebooks:
 
 1. **FranckNan_GroupProject 1_HomeFieldAdvantage.ipynb**:
-   - This notebook analyzes the concept of home field advantage in sports.
+   - This notebook analyzes the statistics of home field advantage in the olympics.
    - To run the notebook:
      ```bash
      jupyter notebook FranckNan_GroupProject 1_HomeFieldAdvantage.ipynb
      ```
 
 2. **Tristan-Athlete-Participation.ipynb**:
-   - This notebook explores athlete participation statistics.
+   - This notebook explores athlete participation statistics and trends for the olympics.
    - To run the notebook:
      ```bash
      jupyter notebook Tristan-Athlete-Participation.ipynb
      ```
 
 3. **aamati-project-1.ipynb**:
-   - This notebook covers additional analysis relevant to our project.
+   - This notebook covers the impact of GDP on olympic performance 
    - To run the notebook:
      ```bash
      jupyter notebook aamati-project-1.ipynb
