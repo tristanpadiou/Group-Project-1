@@ -113,7 +113,7 @@ The repository contains several Jupyter notebooks:
 
 
 
-##Results
+## Results
 
 1. **Correlation between GDP and Medal Count:**
    
