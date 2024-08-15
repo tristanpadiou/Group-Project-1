@@ -40,11 +40,15 @@ Results
 
  **1. Correlation between GDP and Medal Count**:
 
+ The analysis suggests there is some correlation between a country’s GDP and the number of medals won at the Summer Olympics. Higher GDP appears to be linked with higher medal counts, implying that wealthier countries might have better resources for athlete training and development. However, there are many more factors such as population and culture that also impact a countries olympic success.
+
 **2. Home Field Advantage**
 
 Our data indicates that countries tend to win more medals when they host the Summer Olympic games. Historical trends show that host countries like the USA (1904, 1932, 1984) experienced significant increases in their medal counts during the years they hosted. This pattern suggests a notable home field advantage, possibly due to familiar environments, supportive local crowds, and reduced travel fatigue for athletes. The USA’s medal trends in these years, with particularly high counts in 1904, exemplify this phenomenon.
 
 **3. Impact of Physical Attributes**
+
+
 
 **4. Changes in Athlete Participation**:
 
