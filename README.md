@@ -137,7 +137,7 @@ Our data shows an overall positive trend in athlete participation over the years
 
 --
 
-# Contributors
+## Contributors
 
 Alexander Amati
 
