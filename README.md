@@ -8,10 +8,6 @@
 
 **Project Overview**
 
-Olympic Games Analysis Project
-
-Project Overview
-
 The  Olympic Games are a major world event that brings together nations from every continent in a celebration of peace, friendship, effort, and excellence. Since its first edition in Greece, the Olympic Games have evolved in both quality and size.The purpose of this project is to analyze trends in the evolution of the Olympic Games, and factors that have influenced its results over the years. We focused on four guiding questions to analyze the following aspects: the influence of a country's GDP on its performance in the games, the impact of home advantage on a country's results, the influence of physical attributes on an athlete's performance, and the evolution of the event's popularity based on athlete participation.
 
 **Guiding Questions**
