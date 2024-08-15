@@ -2,20 +2,11 @@
 # Group 9
 # Team: Alexander Amati, Ana Carolina Azevedo, Javier Gonzalez, Franck Nan, Tristan Padiou, Jandro Riley
 
-## Project Overview
-
-## Usage and Installation Instructions
-
-## Analysis Summary
-
-## Examples
-
-## Results
 
 
-Olympic Games Analysis Project
+## Olympic Games Analysis Project
 
-Project Overview
+**Project Overview**
 
 Olympic Games Analysis Project
 
