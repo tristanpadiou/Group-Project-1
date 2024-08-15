@@ -135,9 +135,9 @@ Our study indicates that physical attributes of athletes have an effect on the M
 Our data shows an overall positive trend in athlete participation over the years. Influences on this trend include the inclusion of new sports modalities, notably team sports; gender equality and diversity initiatives that bring more athletes to compete; economic development enabling new countries to participate; easier access to international travel and communication; advancements in training methods and technologies allowing more athletes to reach olympic standards. Although there is a clear overall positive trend, the data also shows us significant fluctuations that occur mainly due to geopolitical events. For example, there was a steep decline in participation in 1980 due to the boycott of the Moscow Olympics following the Soviet invasion of Afghanistan. Therefore, the level of participation at any given Olympic Games will be the result of these trends combined with the fluctuations caused by geopolitical events happening at that time.
 
 
+--
 
-
-**Contributors**
+# Contributors
 
 Alexander Amati
 
