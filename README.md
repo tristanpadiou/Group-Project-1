@@ -48,7 +48,7 @@ Our data indicates that countries tend to win more medals when they host the Sum
 
 **3. Impact of Physical Attributes**
 
-
+Height and weight appear to play a role in the performance of athletes in the Men’s 4 x 400m relay. The analysis indicated that the highest density of medal winners ranged in height from 182 cm to 186 cm and in weight from 70 kg to 76 kg. This suggests that there might be an optimal physical profile for success in this event.
 
 **4. Changes in Athlete Participation**:
 
