@@ -57,9 +57,14 @@ Athlete participation in the Summer and Winter Olympic games has fluctuated over
 Contributors
 
 Alexander Amati
+
 Ana Carolina Azevedo + Felipe
+
 Javier Gonzalez
+
 Franck Nan
+
 Tristan Padiou
-Jandro Riley
+
+Riley Jandro 
 
