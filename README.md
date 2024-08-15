@@ -24,7 +24,7 @@ Installation Instructions
 
 # Group Project 1
 
-This repository contains notebooks and resources related to our group project on various topics, including Home Field Advantage and Athlete Participation.
+This repository contains notebooks and resources related to our group project on various topics, including Correlation between GDP and Medal Count,Home Field Advantage, Impact of Physical Attributes, and Changes in Athlete Participation.
 
 ## Installation
 
