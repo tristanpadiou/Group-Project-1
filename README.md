@@ -33,8 +33,6 @@ The  Olympic Games are a major world event that brings together nations from eve
 
 Installation Instructions
 
-Sure, here's the README formatted for GitHub:
-
 ---
 
 # Group Project 1
