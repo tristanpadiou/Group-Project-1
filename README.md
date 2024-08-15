@@ -117,21 +117,25 @@ The repository contains several Jupyter notebooks:
 
 
 
-**Examples and Results**
+**Results**
 
-1. Correlation between GDP and Medal Count:
+1. **Correlation between GDP and Medal Count:**
+   
 Our analysis indicates a correlation between a country's GDP and its medal count in the Summer Olympic Games, with higher GDPs often associated with a higher number of medals won. This correlation can be attributed to a greater availability of resources that can be allocated to athlete development, infrastructure, and overall sports incentives. However, it is important to note that a country's Olympic success results from numerous elements. Population size,  culture, and many others play an important part in shaping the chances of every competing country. 
 
 
 2. **Home Field Advantage**
+   
 Our findings indicate that countries tend to win more medals when they host the Summer Olympic Games. This tendency is exemplified by the USA's performance in the years it hosted the Summer Olympic Games (1904, 1932, and 1984), when the medal counts were significantly higher than adjacent years. Possible contributing factors for these findings include the moral factor, consisting of higher motivation and increased crowd support; athletes being used to the local climate conditions; athletes' familiarity with fields and other competition venues; and increased financial incentives in the period leading up to the Home Olympic Games. 
 
 
 3. **Impact of Physical Attributes**
+   
 Our study indicates that physical attributes of athletes have an effect on the Men’s 4 x 400m relay results. By analyzing the height and weight of athletes of this sport, we found that most medal winners ranged in height from 182 cm to 186 cm and in weight from 70 kg to 76 kg. There is an increase in performance as the athletes' height and weight increases, but after a certain point performance starts to decline. As a result, our findings indicate that there might be an ideal physical profile for this sport.
 
 
 4. **Changes in Athlete Participation:**
+
 Our data shows an overall positive trend in athlete participation over the years. Influences on this trend include the inclusion of new sports modalities, notably team sports; gender equality and diversity initiatives that bring more athletes to compete; economic development enabling new countries to participate; easier access to international travel and communication; advancements in training methods and technologies allowing more athletes to reach olympic standards. Although there is a clear overall positive trend, the data also shows us significant fluctuations that occur mainly due to geopolitical events. For example, there was a steep decline in participation in 1980 due to the boycott of the Moscow Olympics following the Soviet invasion of Afghanistan. Therefore, the level of participation at any given Olympic Games will be the result of these trends combined with the fluctuations caused by geopolitical events happening at that time.
 
 
